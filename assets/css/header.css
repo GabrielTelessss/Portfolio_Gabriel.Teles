@@ -17,7 +17,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('assets/img/icones/header.svg');
+    background-image: url('/assets/img/icones/header.svg');
 }
 
 .header .photo{
@@ -56,19 +56,19 @@
 }
 
 .informmation .job::before{
-    background-image: url('assets/img/icones/job.svg');
+    background-image: url('/assets/img/icones/job.svg');
 }
 
 .informmation .location::before{
-    background-image: url('assets/img/icones/location.svg');
+    background-image: url('/assets/img/icones/location.svg');
 }
 
 .informmation .email::before{
-    background-image: url('assets/img/icones/email.svg');
+    background-image: url('/assets/img/icones/email.svg');
 }
 
 .informmation .phone::before{
-    background-image: url('assets/img/icones/phone.svg');
+    background-image: url('/assets/img/icones/phone.svg');
 }
 
 /*Meida para desktop*/
