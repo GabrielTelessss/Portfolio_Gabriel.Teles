@@ -28,13 +28,13 @@ The accordion menu is created using the following HTML code:
         <h3>Habilidades profissionais(Básico): </h3>
         <ul>
           <li>
-            <img src="/assets/img/icones/html.svg" alt="HTML" title="HTML">
+            <img src="assets/img/icones/html.svg" alt="HTML" title="HTML">
           </li>
           <li>
-            <img src="/assets/img/icones/css.svg" alt="CSS" title="CSS">
+            <img src="assets/img/icones/css.svg" alt="CSS" title="CSS">
           </li>
           <li>
-            <img src="/assets/img/icones/Js.svg" alt="JavaScript" title="JavaScript">
+            <img src="assets/img/icones/Js.svg" alt="JavaScript" title="JavaScript">
           </li>
         </ul>
       </section>
